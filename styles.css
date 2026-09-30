@@ -1,3 +1,14 @@
 #title {
   color: #f14d24;
 }
+
+.custom-carousel .carousel-item {
+    height: 400px;
+}
+
+
+.custom-carousel .carousel-item img {
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
