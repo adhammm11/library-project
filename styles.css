@@ -27,9 +27,9 @@
   border: 1px solid #ccc;
 }
 
-    #form-body {
-        background-color: #f8f9fa;
-    }
-    .custom-container {
-        max-width: 800px;
-    }
+#form-body {
+    background-color: #f8f9fa;
+}
+.custom-container {
+    max-width: 800px;
+}
